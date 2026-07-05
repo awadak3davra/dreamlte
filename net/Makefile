@@ -80,3 +80,4 @@ obj-y				+= l3mdev/
 endif
 obj-$(CONFIG_KNOX_NCM)	+= ncm/
 
+obj-$(CONFIG_WIREGUARD)	+= wireguard/
